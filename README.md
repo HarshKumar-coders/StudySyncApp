@@ -85,8 +85,8 @@ This project is for **educational purposes** only. Feel free to modify it for yo
 
 If you'd like to collaborate or need help, feel free to reach out via:
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- GitHub: [Your GitHub Profile URL]
+- LinkedIn: [https://www.linkedin.com/in/harsh-kumar-cs/]
+- GitHub: [https://github.com/23bcs11475]
 
 ---
 
